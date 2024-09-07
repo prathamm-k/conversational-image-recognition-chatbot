@@ -1,19 +1,18 @@
-# 💬 Chatbot template
+# Belirix
 
-A simple Streamlit app that shows how to build a chatbot using OpenAI's GPT-3.5.
+This repo is a companion to Llava, Ollama and Streamlit | Create POWERFUL Image Analyzer Chatbot for FREE - Windows & Mac</a>
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://chatbot-template.streamlit.app/)
 
-### How to run it on your own machine
+# Cloning starter_project Branch
+To clone the starter_project you can run the following command:
 
-1. Install the requirements
+```
+git clone https://github.com/prathamm-k/conversational-image-recognition-chatbot.git
 
-   ```
-   $ pip install -r requirements.txt
-   ```
+```
 
-2. Run the app
+# Chatbot Features include:
+- Ability to select a image to be uploaded and analyzed by the LLava model
+- Ability to select different Vision Models
+- Ability to chat about the uploaded image
 
-   ```
-   $ streamlit run streamlit_app.py
-   ```
